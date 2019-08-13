@@ -8,24 +8,12 @@ We are a team based at [London School of Hygiene and Tropical Medicine](https://
 
 ## The team
 
-[Sebastian Funk](https://sbfnk.github.io)
+[Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian)
 
-WTS
+[James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james)
 
+[Joel Hellewell](https://www.lshtm.ac.uk/aboutus/people/hallewell.joel)
 
+[Flavio Finger](https://www.lshtm.ac.uk/aboutus/people/finger.flavio)
 
-James Munday: 
-
-WTS
-
-Joel Hellewell:
-
-WTS
-
-Flavio Finger:
-
-WTS
-
-Anton Carmacho: 
-
-WTS
+[Anton Camacho](https://www.lshtm.ac.uk/aboutus/people/camacho.anton)
