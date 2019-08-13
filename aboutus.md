@@ -12,7 +12,7 @@ We are a team based at [London School of Hygiene and Tropical Medicine](https://
 
 [James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james)
 
-[Joel Hellewell](https://www.lshtm.ac.uk/aboutus/people/hallewell.joel)
+[Joel Hellewell](https://www.lshtm.ac.uk/aboutus/people/Hellewell.Joel)
 
 [Flavio Finger](https://www.lshtm.ac.uk/aboutus/people/finger.flavio)
 
