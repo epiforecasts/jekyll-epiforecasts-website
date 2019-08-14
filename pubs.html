@@ -1,0 +1,23 @@
+---
+layout: page
+title: publications
+---
+
+<div class="publist">
+
+    {% for post in site.posts %}
+      <p>
+
+         {{ post.ref-authors }} ({{ post.ref-year }}).<br>
+            <b><i>{{ post.ref-title }}.</i></b> 
+            <em>{{ post.ref-journal}}</em>
+            {% if post.ref-vol %}, {{ post.ref-vol }}{% endif %}. 
+            {% if post.ref-doi %}
+              <a href="https://{{ post.ref-doi }}">
+                  doi: {{ post.ref-doi }}
+      </a> 
+            {% endif %}
+
+      </p>
+    {% endfor %}
+</div>
