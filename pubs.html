@@ -4,8 +4,11 @@ title: publications
 ---
 
 <div class="publist">
+    
+    {% assign sorted = site.data.papers | sort: 'date' %}
+    {% assign revsorted = sorted | reverse %}
 
-    {% for post in site.posts %}
+    {% for post in revsorted %}
       <p>
 
          {{ post.ref-authors }} ({{ post.ref-year }}).<br>

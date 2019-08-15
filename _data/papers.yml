@@ -1,0 +1,31 @@
+# list of papers published by the group will be sorted automatically by date (reverse order)
+
+
+- title: Assessing the performance of real-time epidemic forecasts
+  date: 2015-02-11
+  ref-authors: Funk S, Camacho A, Kucharski AJ, Lowe R, Eggo RM, et al. 
+  ref-year: 2019
+  ref-title: "Assessing the performance of real-time epidemic forecasts: A case study of Ebola in the Western Area region of Sierra Leone, 2014-15"
+  ref-journal: PLoS Computational Biology
+  ref-vol: "15(2): e1006785"
+  ref-doi: doi.org/10.1371/journal.pcbi.1006785
+
+- title: Temporal Changes in Ebola Transmission in Sierra Leone
+  date: 2015-02-10
+  ref-authors: Camacho A, Kucharski A, Aki-Sawyerr Y, White MA, Flasche S, Baguelin M, Pollington T, Carney JR, Glover R, Smout E, Tiffany A, Edmunds WJ, Funk S
+  ref-year: 2015
+  ref-title: "Temporal Changes in Ebola Transmission in Sierra Leone and Implications for Control Requirements- a Real-time Modelling Study."
+  ref-journal: PLOS Currents Outbreaks
+  ref-vol: Edition 1
+  ref-doi: doi.org/10.1371/currents.outbreaks.406ae55e83ec0b5193e30856b9235ed2
+  
+- title: Real-time analysis of the diphtheria outbreak
+  date: 2019-03-12
+  ref-authors: Flavio Finger, Sebastian Funk, Kate White, M. Ruby Siddiqui, W. John Edmunds and Adam J. Kucharski
+  ref-year: 2019
+  ref-title: "Real-time analysis of the diphtheria outbreak in forcibly displaced Myanmar nationals in Bangladesh"
+  ref-journal: BMC Medicine
+  ref-vol: "58 (2019)"
+  ref-doi: doi.org/10.1186/s12916-019-1288-7
+
+  
