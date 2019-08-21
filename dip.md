@@ -1,3 +1,9 @@
+---
+title: Diphtheria Bangladesh 2018/19
+date: 21/08/2019
+layout: post
+---
+
 # Modelling the 2018/19 diphtheria outbreak in Cox's Bazar, Bangladesh
 
 Our article [Real-time analysis of the diphtheria outbreak in forcibly displaced Myanmar nationals in Bangladesh][bmcart] published in BMC Medicine.
