@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Outbreak Forecasts
+title: EpiForecasts
 
 # Short description of your site
 description: We forecast infectious disease outbreaks
@@ -73,8 +73,8 @@ social-network-links:
   #rss: false
   email: "james.munday@lshtm.ac.uk"
   #facebook: deanattali
-  github: jdmunday
-  twitter: jdmunday
+  github: sbfnk
+  twitter: cmmid_lshtm
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
