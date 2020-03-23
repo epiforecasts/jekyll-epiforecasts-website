@@ -8,4 +8,4 @@ We are a team based at [London School of Hygiene and Tropical Medicine](https://
 
 ## The team
 
-[Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian) · [James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james) · [Joel Hellewell](https://www.lshtm.ac.uk/aboutus/people/Hellewell.Joel) · [Flavio Finger](https://www.lshtm.ac.uk/aboutus/people/finger.flavio)
+[Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian) · [James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james) · [Joel Hellewell](https://www.lshtm.ac.uk/aboutus/people/Hellewell.Joel) · [Sam Abbott](https://www.samabbott.co.uk/) · [Robin Thompson](https://www.maths.ox.ac.uk/people/robin.thompson) · [Flavio Finger](https://www.lshtm.ac.uk/aboutus/people/finger.flavio)
