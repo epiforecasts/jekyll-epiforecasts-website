@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About us
 subtitle: Who we are and what we do
 ---
