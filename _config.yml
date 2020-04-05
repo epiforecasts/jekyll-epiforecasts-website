@@ -21,6 +21,7 @@ description: We forecast infectious disease outbreaks
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
+  Covid: "covid"
   Current forecasts:
     - Ebola DRC: "ebola-drc"
   previous forecasts:
