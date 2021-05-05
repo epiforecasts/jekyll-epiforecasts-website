@@ -260,7 +260,6 @@ DEPENDENCIES
   github-pages
   jekyll-paginate
   kramdown (>= 2.3.1)
-  rexml (>= 2.3.5)
 
 BUNDLED WITH
    2.1.4
