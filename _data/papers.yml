@@ -72,8 +72,24 @@
   ref-journal: Philosophical Transactions of the Royal Society B
   ref-vol: "376"
   ref-doi: doi.org/10.1098/rstb.2020.0283
-
   
-
-
+- title: Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
+  date: 2020-04-09
+  ref-authors: Akira Endo, Sam Abbott, Adam J Kucharski, Sebastian Funk
+  ref-year: 2020
+  ref-title: "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5(67)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.15842.3
   
+- title: Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks
+  date: 2020-10-13
+  ref-authors: Akira Endo, Quentin J Leclerc, Gwenan M Knight, Graham F Medley, Katherine E Atkins, Sebastian Funk, Adam J Kucharski
+  ref-year: 2020
+  ref-title: "Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5(239)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.16344.3
+
+
+
