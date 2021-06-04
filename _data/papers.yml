@@ -27,5 +27,47 @@
   ref-journal: BMC Medicine
   ref-vol: "58 (2019)"
   ref-doi: doi.org/10.1186/s12916-019-1288-7
+  
+- title: Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts
+  date: 2020-04-01
+  ref-authors: Joel Hellewell, Sam Abbott, Amy Gimma, Nikos I Bosse, Christopher I Jarvis, Timothy W Russell, James D Munday, Adam J Kucharski, W John Edmunds, Fiona Sun, Stefan Flasche, Billy J Quilty, Nicholas Davies, Yang Liu, Samuel Clifford, Petra Klepac, Mark Jit, Charlie Diamond, Hamish Gibbs, Kevin van Zandvoort, Sebastian Funk, Rosalind M Eggo
+  ref-year: 2020
+  ref-title: "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts"
+  ref-journal: The Lancet Global Health
+  ref-vol: "8 (4)"
+  ref-doi: doi.org/10.1016/S2214-109X(20)30074-7
+  
+- title: Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts
+  date: 2020-06-01
+  ref-authors: Sam Abbott, Joel Hellewell, Robin N Thompson, Katharine Sherratt, Hamish P Gibbs, Nikos I Bosse, James D Munday, Sophie Meakin, Emma L Doughty, June Young Chun, Yung-Wai Desmond Chan, Flavio Finger, Paul Campbell, Akira Endo, Carl AB Pearson, Amy Gimma, Tim Russell, Stefan Flasche, Adam J Kucharski, Rosalind M Eggo, Sebastian Funk
+  ref-year: 2020
+  ref-title: "Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5 (112)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.16006.2
+  
+- title: The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan
+  date: 2020-02-11
+  ref-authors: Sam Abbott, Joel Hellewell, James Munday, Sebastian Funk, CMMID nCoV working group
+  ref-year: 2020
+  ref-title: "The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5 (17)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.15718.1
+  
+- title: Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England
+  date: 2021-03-29
+  ref-authors: James D Munday, Katharine Sherratt, Sophie Meakin, Akira Endo, Carl AB Pearson, Joel Hellewell, Sam Abbott, Nikos I Bosse, Katherine E Atkins, Jacco Wallinga, W John Edmunds, Albert Jan van Hoek, Sebastian Funk
+  ref-year: 2021
+  ref-title: "Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England"
+  ref-journal: Nature communications
+  ref-vol: "12 (1)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.15718.1
+  
+  
+
+
+  
+
 
   
