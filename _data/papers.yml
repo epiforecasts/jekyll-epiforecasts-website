@@ -62,12 +62,42 @@
   ref-title: "Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England"
   ref-journal: Nature communications
   ref-vol: "12 (1)"
-  ref-doi: doi.org/10.12688/wellcomeopenres.15718.1
+  ref-doi: doi.org/10.1038/s41467-021-22213-0
+
+- title: Exploring surveillance data biases when estimating the reproduction number: with insights into subpopulation transmission of COVID-19 in England
+  date: 2021-05-31
+  ref-authors: Katharine Sherratt†, Sam Abbott†, Sophie R. Meakin, Joel Hellewell, James D. Munday, Nikos Bosse, CMMID COVID-19 Working Group, Mark Jit and Sebastian Funk
+  ref-year: 2021
+  ref-title: "Exploring surveillance data biases when estimating the reproduction number: with insights into subpopulation transmission of COVID-19 in England"
+  ref-journal: Philosophical Transactions of the Royal Society B
+  ref-vol: "376"
+  ref-doi: doi.org/10.1098/rstb.2020.0283
   
+- title: Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
+  date: 2020-04-09
+  ref-authors: Akira Endo, Sam Abbott, Adam J Kucharski, Sebastian Funk
+  ref-year: 2020
+  ref-title: "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5(67)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.15842.3
   
+- title: Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks
+  date: 2020-10-13
+  ref-authors: Akira Endo, Quentin J Leclerc, Gwenan M Knight, Graham F Medley, Katherine E Atkins, Sebastian Funk, Adam J Kucharski
+  ref-year: 2020
+  ref-title: "Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks"
+  ref-journal: Wellcome Open Research
+  ref-vol: "5(239)"
+  ref-doi: doi.org/10.12688/wellcomeopenres.16344.3
+  
+- title: Short-term forecasting of COVID-19 in Germany and Poland during the second wave–a preregistered study
+  date: 2021-01-01
+  ref-authors: Johannes Bracher, Daniel Wolffram, Jannik Deuschel, Konstantin Goergen, Jakob L Ketterer, Alexander Ullrich, Sam Abbott, Maria Vittoria Barbarossa, Dimitris Bertsimas, Sangeeta Bhatia, Marcin Bodych, Nikos I Bosse, Jan Pablo Burgard, J Fuhrmann, S Funk, K Gogolewski, Q Gu, S Heyder, T Hotz, Y Kheifetz, H Kirsten, T Krueger, E Krymova, ML Li, JH Meinke, K Niedzielewski, T Ożański, F Rakowski, M Scholz, S Soni, A Srivastava, J Zieliński, D Zou, T Gneiting, M Schienle
+  ref-year: 2021
+  ref-title: "Short-term forecasting of COVID-19 in Germany and Poland during the second wave–a preregistered study"
+  ref-journal: medRxiv
+  ref-vol: ""
+  ref-doi: doi.org/10.1101/2020.12.24.20248826
 
 
-  
-
-
-  
