@@ -21,11 +21,14 @@ description: We forecast infectious disease outbreaks
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Covid: "covid"
+  Covid-19:
+    - Global Rt tracking and forecasting: "covid"
+    - European Covid-19 Forecast Hub: "https://covid19forecasthub.eu/"
+    - Expert/Crowd forecasting: "https://www.crowdforecastr.org/"
   Previous projects:
+    - Ebola West Africa 2014-16: "http://ntncmch.github.io/ebola/weekly_forecast.html"
     - Diphtheria Bangladesh 2018: "dip"
-    - Ebola west africa 2014-16: "http://ntncmch.github.io/ebola/weekly_forecast.html"
-    - Ebola DRC: "ebola-drc"
+    - Ebola DRC 2019: "ebola-drc"
   Publications: "pubs"
 
 # Image to show in the navigation bar - image must be a square (width = height)
