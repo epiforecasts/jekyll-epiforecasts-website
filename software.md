@@ -4,9 +4,9 @@ title: Software
 subtitle: R packages and other software developed by the group
 ---
 
-### Real-time infection dynamcis and forecasting
+### Real-time infection dynamics and forecasting
 
-[EpiNow2](http://epiforecasts.io/EpiNow2) estimates the time-varying reproduction number, rate of spread, and doubling time using a range of [open-source tools](https://wellcomeopenresearch.org/articles/5-112), and current [best practices](https://doi.org/10.1371/journal.pcbi.1008409).
+[EpiNow2](http://epiforecasts.io/EpiNow2) estimates the time-varying reproduction number, growth rate, and doubling time using a range of [open-source tools](https://wellcomeopenresearch.org/articles/5-112), and current [best practices](https://doi.org/10.1371/journal.pcbi.1008409).
 
 ### Covid-19 data
 
