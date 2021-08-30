@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EpiForecasts
-subtitle: We forecast infectious disease outbreaks in time and space
+subtitle: Real-time modelling and forecasting of infectious disease dynamics
 use-site-title: true
 ---
 
