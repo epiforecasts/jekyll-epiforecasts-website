@@ -13,4 +13,4 @@ We are a team based at the [London School of Hygiene & Tropical Medicine](https:
 
 ## Former team members
 
-[Flavio Finger](https://ffinger.github.io/) · [Joe Palmer](https://pure.royalholloway.ac.uk/portal/en/persons/joseph-palmer(dce02baf-426d-4ea1-a242-818b7cf5158a).html) · [Robin Thompson](https://warwick.ac.uk/fac/sci/maths/people/staff/thompson/)
+[Flavio Finger](https://ffinger.github.io/) · [Joe Palmer](https://pure.royalholloway.ac.uk/portal/en/persons/joseph-palmer(dce02baf-426d-4ea1-a242-818b7cf5158a).html) · [Robin Thompson](https://warwick.ac.uk/fac/sci/maths/people/staff/thompson/) · Joel Hellewell
