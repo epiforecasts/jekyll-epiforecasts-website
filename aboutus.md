@@ -9,7 +9,7 @@ We are a team based at the [London School of Hygiene & Tropical Medicine](https:
 
 ## The team
 
-[Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian) (Group leader) · [Akira Endo](https://www.lshtm.ac.uk/aboutus/people/endo.akira) · [Alexis Robert](https://www.lshtm.ac.uk/aboutus/people/robert.alexis) · Hugo Gruson · [James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james) · Katharine Sherratt · Nikos Bosse · Sam Abbott · [Sophie Meakin](https://www.lshtm.ac.uk/aboutus/people/meakin.sophie)
+[Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian) (Group leader) · [Akira Endo](https://www.lshtm.ac.uk/aboutus/people/endo.akira) · [Alexis Robert](https://www.lshtm.ac.uk/aboutus/people/robert.alexis) · Hugo Gruson · [James Munday](https://www.lshtm.ac.uk/aboutus/people/munday.james) · Katharine Sherratt · Nikos Bosse · [Sam Abbott](https://samabbott.co.uk/about) · [Sophie Meakin](https://www.lshtm.ac.uk/aboutus/people/meakin.sophie)
 
 ## Former team members
 
